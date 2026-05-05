@@ -140,9 +140,8 @@ Compare all KPIs:
 ---
 
 ## 📷 Dashboard Preview
-![Blinkit Dashboard](1777960887578__435357D3-AC83-46C4-87E8-49EC575007E4_.png)
 
-![Blinkit Dashboard](https://github.com/user-attachments/assets/4d4b5fe3-6895-4720-8c3b-ea5305200024)
+![Blinkit Dashboard](https://github.com/user-attachments/assets/4b5ef118-f1f4-40c9-87e4-f96002c2930a)
 
 
 ---
